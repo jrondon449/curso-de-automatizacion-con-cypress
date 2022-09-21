@@ -1,0 +1,19 @@
+{
+  "name": "cypressplatzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrondon449/curso-de-automatizacion-con-cypress.git"
+  },
+  "keywords": [
+    "QA",
+    "automation"
+  ],
+  "author": "jrondon",
+  "license": "ISC"
+}
